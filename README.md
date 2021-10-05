@@ -1,5 +1,5 @@
 # Hertz
-A website that you can have fun with different sounds and volumes.<br>
+A website that you can have fun with different sounds and different volumes.<br>
 
 Enter the link below to visit the website.<br>
 https://hertz-a.netlify.app/<br><br>
